@@ -126,7 +126,7 @@ div.image-gallary-small.swiper-slide-thumb-active>img{
         width: 100%;
     }
     .image-gallary-small img {
-        height: 90px !important;
+        height: auto !important;
         width: 90px !important;
     }
 }

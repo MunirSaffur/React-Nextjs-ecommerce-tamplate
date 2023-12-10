@@ -72,8 +72,8 @@ export default function MobileHeader() {
                 setLanguage(event.target.value)
               }}
             >
-              <MenuItem value="english">
-                <US title="United States" className="w-5 me-2" /> english
+              <MenuItem value="English">
+                <US title="United States" className="w-5 me-2" /> English
               </MenuItem>
               <MenuItem value="Arabic">
                 <AE title="United States" className="w-5 me-2" /> Arabic
