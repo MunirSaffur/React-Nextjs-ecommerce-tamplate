@@ -45,7 +45,7 @@ export default function ProductSlider({
         }}
         breakpoints={{
           340: {
-            slidesPerView: 1.3,
+            slidesPerView: 1.7,
             spaceBetween: 10,
           },
           768: {

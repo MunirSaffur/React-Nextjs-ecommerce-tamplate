@@ -24,7 +24,7 @@ export default function page({ params }) {
         </div>
         {/* prodcuts side */}
         <div className="col-span-12 sm:col-span-9">
-          <div className="grid grid-cols-6 sm:grid-cols-12 gap-3">
+          <div className="grid grid-cols-6 sm:grid-cols-12 gap-2">
             {products.map((item, index) => (
              <div className="col-span-3" key={index}>
                <ProductCard data={item} />
